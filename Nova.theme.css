@@ -19,6 +19,9 @@
 .layers { background: transparent!important;
 }
 
+.layer { background: transparent!important;
+}
+
 /*Transparency*/
 #voice-connection,
 #friends,

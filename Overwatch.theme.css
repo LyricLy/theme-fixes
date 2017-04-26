@@ -55,7 +55,7 @@
 .guild-header header,
 .divider-red span,
 .messages-wrapper,
-#voice-connection {
+#rtc-connection {
 	background-color: transparent !important;
 }
 
@@ -209,21 +209,21 @@ textarea {
 }
 
 /* Vocie server info */
-#voice-connection {
+#rtc-connection {
 	z-index: 9;
 	border-top: 6px solid !important;
 	padding: 5px 10px 5px 10px !important;
     color: #FAA02E;
 }
 
-#voice-connection .btn {
+#rtc-connection .btn {
 	background: transparent;
 	box-shadow:none !important;
     border:none;
 }
 
 
-#voice-connection .btn-group {
+#rtc-connection .btn-group {
 	border:none;
 }
 

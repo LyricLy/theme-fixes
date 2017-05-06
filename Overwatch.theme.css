@@ -19,10 +19,7 @@
 	background-size: cover !important;
 }
 
-.layers { background: transparent!important;
-}
-
-.layers { background: transparent!important;
+.layers, .layer { background: transparent!important;
 }
 
 .callout-backdrop{

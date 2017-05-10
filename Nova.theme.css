@@ -16,10 +16,7 @@
     background-size: cover;
 }
 
-.layers { background: transparent!important;
-}
-
-.layer { background: transparent!important;
+.layers, .layer { background: transparent!important;
 }
 
 /*Transparency*/
